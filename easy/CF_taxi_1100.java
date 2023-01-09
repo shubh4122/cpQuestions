@@ -1,4 +1,4 @@
-package cp.easy;
+package cpOrContests.easy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
